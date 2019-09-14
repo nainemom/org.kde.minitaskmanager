@@ -18,7 +18,7 @@
         "ServiceTypes": [
             "Plasma/Applet"
         ],
-        "Version": "4.0",
+        "Version": "1.0",
         "Website": "https://github.com/nainemom/org.kde.minitaskmanager"
     },
     "X-Plasma-API": "declarativeappletscript",
