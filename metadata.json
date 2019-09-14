@@ -1,0 +1,29 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "nainemom@gmail.com",
+                "Name": "Amir Momenian"
+            }
+        ],
+        "Category": "Windows and Tasks",
+        "Dependencies": [
+        ],
+        "Description": "Switch between running applications with minimal GUI",
+        "EnabledByDefault": true,
+        "Icon": "preferences-system-windows",
+        "Id": "org.kde.plasma.minitaskmanager",
+        "License": "GPL-2.0+",
+        "Name": "Mini Task Manager",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "4.0",
+        "Website": "org.kde.minitaskmanager"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.multitasking"
+    ]
+}
