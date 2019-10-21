@@ -12,13 +12,13 @@
         "Description": "Switch between running applications with minimal GUI",
         "EnabledByDefault": true,
         "Icon": "preferences-system-windows",
-        "Id": "org.kde.minitaskmanager",
+        "Id": "org.kde.plasma.minitaskmanager",
         "License": "GPL-2.0+",
         "Name": "Mini Task Manager",
         "ServiceTypes": [
             "Plasma/Applet"
         ],
-        "Version": "1.0",
+        "Version": "1.1",
         "Website": "https://github.com/nainemom/org.kde.minitaskmanager"
     },
     "X-Plasma-API": "declarativeappletscript",
